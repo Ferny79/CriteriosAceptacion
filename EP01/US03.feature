@@ -1,4 +1,4 @@
-User Story ID: US03
+Feature: User Story ID: US03
 Título: Personalización de notificaciones de salud
 
 Scenario 1: Configuración de notificaciones personalizadas
