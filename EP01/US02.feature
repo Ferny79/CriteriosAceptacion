@@ -1,5 +1,4 @@
-User Story ID: US02
-Título: Creación de perfil de salud
+Feature:  User02 -Creación de perfil de salud
 
 Scenario 1: Creación exitosa del perfil de salud
 
