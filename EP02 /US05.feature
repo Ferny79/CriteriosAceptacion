@@ -1,7 +1,5 @@
-User Story ID: US05
-Feature: Función de SOS para emergencias
+Feature: US05 - Función de SOS para emergencias
 
-Scenario 1: Activación de la función SOS en una emergencia
 
 Given que el usuario se encuentra en una emergencia sanitaria
 When activa la función SOS en la aplicación
