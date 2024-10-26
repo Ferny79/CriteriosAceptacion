@@ -1,4 +1,4 @@
-User Story ID: US01
+Feature: User Story ID: US01
 Título: Registro de usuario en SaluDPlus
 
 Scenario 1: Registro exitoso
