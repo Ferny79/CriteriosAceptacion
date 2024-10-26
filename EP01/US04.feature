@@ -1,4 +1,4 @@
-User Story ID: US04
+Feature: User Story ID: US04
 Título: Actualización de perfil de salud
 
 Scenario 1: Actualización exitosa de datos de salud
