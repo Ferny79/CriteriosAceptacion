@@ -1,6 +1,6 @@
 Feature: US05 - Función de SOS para emergencias
 
-
+Scenario: 
 Given que el usuario se encuentra en una emergencia sanitaria
 When activa la función SOS en la aplicación
 Then la aplicación envía su ubicación en tiempo real
