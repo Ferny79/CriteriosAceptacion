@@ -1,1 +1,17 @@
+User Story ID: US09
+Título: Asistente de salud “SaludAI”
 
+Scenario 1: Obtención de recomendaciones de salud personalizadas
+
+Given que el usuario accede a la sección de "SaludAI"
+And tiene su perfil de salud actualizado
+When hace preguntas relacionadas con su salud
+Then "SaludAI" le proporciona información personalizada
+And las recomendaciones se basan en su historial médico y consultas anteriores
+Scenario 2: Activación automática de la función SOS
+
+Given que el sistema detecta una caída brusca en la salud del usuario
+And no hay respuesta del usuario
+When se cumplen las condiciones de emergencia
+Then la función SOS se activa automáticamente
+And se envía una alerta a los servicios de emergencia
