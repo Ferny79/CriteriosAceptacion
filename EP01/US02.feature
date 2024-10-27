@@ -1,6 +1,5 @@
 Feature: US02 - Creación de perfil de salud
-Como usuario
-Quiero crear un perfil de salud que almacene mi historial médico para facilitar la interacción con profesionales
+Como usuario quiero crear un perfil de salud que almacene mi historial médico para facilitar la interacción con profesionales
 
 Scenario: E1: Creación y almacenamiento seguro del perfil de salud
     Given que el usuario accede a su perfil
