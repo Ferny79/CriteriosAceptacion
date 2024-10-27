@@ -1,11 +1,11 @@
-Feature: User Story ID: US03
-Título: Personalización de notificaciones de salud
+Feature: US03 - Personalización de notificaciones de salud
+Como usuario
+Quiero personalizar las notificaciones de salud para recibir alertas relevantes según mi perfil médico
 
-Scenario 1: Configuración de notificaciones personalizadas
-
-Given que el usuario ha configurado su perfil de salud
-And está en la sección de configuración de notificaciones
-When selecciona sus preferencias de notificación
-And guarda los cambios
-Then recibe alertas personalizadas de salud y prevención
-And las notificaciones se adaptan según su historial médico
+gherkin
+Copy code
+Scenario: E1: Configuración de notificaciones personalizadas
+    Given que el usuario ha configurado su perfil de salud
+    When selecciona sus preferencias de notificación
+    Then recibe alertas personalizadas de salud y prevención según su historial médico
+US04 - Actualización de perfil de salud
