@@ -1,6 +1,5 @@
 Feature: US04 - Actualización de perfil de salud
-Como usuario
-Quiero actualizar mis datos de salud para asegurarme de que mi información esté siempre al día
+Como usuario quiero actualizar mis datos de salud para asegurarme de que mi información esté siempre al día
 
 Scenario: E1: Actualización exitosa de información de salud
     Given que el usuario accede a su perfil
