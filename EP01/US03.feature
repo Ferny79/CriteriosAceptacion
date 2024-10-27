@@ -1,6 +1,5 @@
 Feature: US03 - Personalización de notificaciones de salud
-Como usuario
-Quiero personalizar las notificaciones de salud para recibir alertas relevantes según mi perfil médico
+Como usuario quiero personalizar las notificaciones de salud para recibir alertas relevantes según mi perfil médico
 
 Scenario: E1: Configuración de notificaciones personalizadas
     Given que el usuario ha configurado su perfil de salud
