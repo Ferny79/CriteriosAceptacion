@@ -7,10 +7,3 @@ Given que el administrador accede al panel de auditoría
 When revisa los registros de acceso a datos médicos
 Then se le muestra un historial de accesos utilizando Blockchain
 And puede identificar accesos no autorizados o inusuales
-
-Examples: INPUT
-| Acceso al panel de auditoría | Filtro aplicado | Blockchain activo | 
-| El administrador accede al panel de auditoría | últimos 30 días | Sí | 
-
-  Examples: OUTPUT
-| Brinda el historial y acciones recomendadas |
