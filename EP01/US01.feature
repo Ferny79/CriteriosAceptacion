@@ -1,6 +1,5 @@
 Feature: US01 - Registro de usuario en SaluDPlus
-Como habitante de una comunidad rural
-Quiero registrarme en la aplicación para acceder a los servicios de salud
+Como habitante de una comunidad rural quiero registrarme en la aplicación para acceder a los servicios de salud
 
 Scenario: E1: Registro exitoso del usuario
     Given que el usuario accede a la página de registro
